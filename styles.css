@@ -1,0 +1,41 @@
+body{
+    background-image: url(https://marketplace.canva.com/EAE9oAp-Byc/1/0/1600w/canva-fondo-de-pantalla-escritorio-pc-abstracto-moderno-degradado-negro-PriNvkfDEzU.jpg);
+    text-align: center;
+    color: rgb(250, 250, 250);
+
+   
+}
+.container{
+    color: black;
+    background-color: rgb(255, 255, 255);
+    border: solid 1px black;
+    border-radius: 10px;
+    margin: 0px auto;
+    padding: 25px;
+    max-width: 300px;
+   }
+input{
+    max-width: 150px;
+
+}
+hr{
+    max-width: 250px;
+    background-color: rgba(247, 253, 245, 0.055);
+    border-bottom: solid 1px;
+}
+
+img{
+    margin: 15px;
+    border: solid 1px black;
+    border-radius: 50px;
+}
+
+button{
+    background-color: black;
+    color: beige;
+    border-radius: 10px;
+}
+
+button:hover{
+    background-color: blue;
+}
